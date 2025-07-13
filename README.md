@@ -15,12 +15,12 @@ The model is trained on a dataset of approximately 80,000 samples and optimized 
 servo_motor/
 - dataset.xlsx # Input dataset
 - main.py # Training script
-- optimize.py # Optimization script
+- predict.py # Optimization script
 - best_mlp_model.keras # Trained model
 - scaler_X.save # Scaler for input features
 - scaler_Y.save # Scaler for output targets
 - loss_plot.png # Training/validation loss graph
-- ADME.md # Project documentation
+- README.md # Project documentation
 
 ## Dataset Format
 
